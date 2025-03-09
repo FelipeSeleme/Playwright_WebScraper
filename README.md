@@ -8,6 +8,8 @@ Este projeto utiliza a biblioteca **Playwright** para automatizar a busca e o do
 - Coleta os links dos artigos em formato PDF.
 - Faz o download dos artigos para a pasta `data/`.
 - Tira uma captura de tela da página de resultados.
+  
+![Captura de tela](screenshot.png)
 
 ## Requisitos
 Antes de executar o código, certifique-se de ter:
